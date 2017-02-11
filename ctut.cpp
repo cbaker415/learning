@@ -26,7 +26,7 @@ int main()
 
     myName[0][3] = 'l';
 
-    cout << myName[0][3];
+    cout << myName[3][3];
 
 return 0;
 }
